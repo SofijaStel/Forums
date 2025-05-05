@@ -1,0 +1,45 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+  color: #222;
+  line-height: 1.6;
+}
+  header {
+    padding: 30px 20px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    background-image: url("https://i.postimg.cc/qMdmBTV4/Ekr-nuz-mums-2025-04-30-202722.png");
+    background-repeat: repeat;
+    background-position: center;
+    }
+h1 {
+        font-size: 55px; 
+        text-align:left; 
+        margin-bottom: 20px;
+        text-shadow: 2px 2px 4px #000000; 
+        margin-left: 230px;
+    }
+    h2{
+      font-size: 35px;
+      text-align: left;
+      display: block;
+      margin-left: 230px;
+    }
+  .comment {
+    background: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    margin-left: 230px;
+    display: block;
+    margin-right: 230px;
+  }
+  
+  .comment .meta {
+    font-size: 0.9em;
+    color: gray;
+  }
