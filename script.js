@@ -3,7 +3,7 @@ function loadComments() {
     const comments = JSON.parse(localStorage.getItem('atsauksmes')) || [];
   
     if (comments.length === 0) {
-      container.innerHTML = "<p>Vēl nav atsauksmju.</p>";
+      container.innerHTML = "<p>Vēl nav atsauksmes.</p>";
       return;
     }
   
